@@ -1,0 +1,1 @@
+{"version":3,"file":"VehicleConnection.js","sourceRoot":"","sources":["../../src/connection/VehicleConnection.ts"],"names":[],"mappings":";;AAAA,yBAA0B;AAEf,QAAA,yBAAyB,GAAG,CAAC,QAAc,EAAE,EAAE;IACtD,EAAE,CAAC,SAAS,CAAC,cAAc,EAAE,QAAQ,EAAE,UAAS,GAAG;QACnD,EAAE,CAAC,CAAC,GAAG,CAAC,CAAC,CAAC;YACN,OAAO,CAAC,GAAG,CAAC,GAAG,CAAC,CAAC;QACrB,CAAC;IACL,CAAC,CAAC,CAAC;AACH,CAAC,CAAA"}
